@@ -1,0 +1,6 @@
+№: 10
+Name: Jack
+Email: 192student@mksumdu.info
+Comment: Hi!
+Date and time: 2023-09-02 20:12:56
+
